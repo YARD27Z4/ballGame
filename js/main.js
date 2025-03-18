@@ -1,7 +1,7 @@
 'use strict'
 
 function onBallClick(maxDiameter) {
-  var ball = event.target;
+  var ball = document.querySelector
   var currentSize = parseInt(ball.style.width) || 100
   var newSize = currentSize + 50
 
