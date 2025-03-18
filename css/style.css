@@ -1,14 +1,16 @@
-body{
+body {
   background-color: black;
+  font-family: monospace;
 }
 
 h1 {
-color:#ffff;
+  color: #ffff;
 }
 
 .ball {
-border-radius: 50%;
-width: 100px;
-height: 100px;
+  background-color: blue;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: auto;
 }
-
