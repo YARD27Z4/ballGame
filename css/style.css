@@ -19,3 +19,8 @@ h1 {
   font-weight: bold;
   font-size: 22px;
 }
+
+.ball {
+  transition: width 1s, height 1s;
+}
+
